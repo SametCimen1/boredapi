@@ -1,0 +1,29 @@
+.mainHeader{
+    text-align: center;
+}
+.mainHeader h1, .mainHeader h2{
+    font-weight: 400;
+}
+
+.apiContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card{
+    padding:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100px;
+    min-height: 100px;
+    background-color: aliceblue;
+    border-radius: 10px;
+
+}
+.img{
+    width: 100px;
+    height: 100px;
+}

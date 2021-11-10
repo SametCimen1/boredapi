@@ -1,0 +1,14 @@
+.welcomeText{
+    text-align: center;
+}
+.welcomeText h1{
+    font-weight: 400;
+}
+.activity{
+    text-align: center;
+
+}
+.activity h1,.activity h2{
+    font-weight: 500;
+    
+}
